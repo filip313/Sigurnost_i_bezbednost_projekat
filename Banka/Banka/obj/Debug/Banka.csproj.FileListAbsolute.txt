@@ -1,0 +1,14 @@
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\bin\Debug\Banka.exe.config
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\bin\Debug\Banka.exe
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\bin\Debug\Banka.pdb
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\bin\Debug\BankaContracts.dll
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\bin\Debug\Manager.dll
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\bin\Debug\BankaContracts.pdb
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\bin\Debug\Manager.pdb
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\obj\Debug\Banka.csproj.CoreCompileInputs.cache
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\obj\Debug\Banka.csproj.CopyComplete
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\obj\Debug\Banka.exe
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\obj\Debug\Banka.pdb
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\Banka\obj\Debug\Banka.csproj.AssemblyReference.cache

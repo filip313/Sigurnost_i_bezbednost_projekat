@@ -1,0 +1,9 @@
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankaContracts\bin\Debug\BankaContracts.dll
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankaContracts\bin\Debug\BankaContracts.pdb
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankaContracts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankaContracts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankaContracts\obj\Debug\BankaContracts.csproj.AssemblyReference.cache
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankaContracts\obj\Debug\BankaContracts.csproj.CoreCompileInputs.cache
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankaContracts\obj\Debug\BankaContracts.csproj.CopyComplete
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankaContracts\obj\Debug\BankaContracts.dll
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankaContracts\obj\Debug\BankaContracts.pdb

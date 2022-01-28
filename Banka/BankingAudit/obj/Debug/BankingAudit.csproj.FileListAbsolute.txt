@@ -1,0 +1,14 @@
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\bin\Debug\BankingAudit.exe.config
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\bin\Debug\BankingAudit.exe
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\bin\Debug\BankingAudit.pdb
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\bin\Debug\BankaContracts.dll
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\bin\Debug\Manager.dll
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\bin\Debug\BankaContracts.pdb
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\bin\Debug\Manager.pdb
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\obj\Debug\BankingAudit.csproj.AssemblyReference.cache
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\obj\Debug\BankingAudit.csproj.CoreCompileInputs.cache
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\obj\Debug\BankingAudit.csproj.CopyComplete
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\obj\Debug\BankingAudit.exe
+C:\Users\lukak\OneDrive\Desktop\SBES_PROJEKAT\SBES_TIM6_6\Banka\BankingAudit\obj\Debug\BankingAudit.pdb
